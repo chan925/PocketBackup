@@ -155,3 +155,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 Built with [rich](https://github.com/Textualize/rich) by Will McGugan for enhanced CLI display.
 Tested across Windows 11, macOS Ventura, and Ubuntu 22.04.
+
+
+# download file
+ [**Download memory_card_backup_standalone.py**](./memory_card_backup_standalone%20(copy).py)
