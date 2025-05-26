@@ -158,4 +158,4 @@ Tested across Windows 11, macOS Ventura, and Ubuntu 22.04.
 
 
 # download file
- [**Download memory_card_backup_standalone.py**](./memory_card_backup_standalone%20(copy).py)
+ <a href="memory_card_backup_standalone%20(copy).py" download>Download memory_card_backup_standalone.py</a>
